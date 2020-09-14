@@ -1,3 +1,7 @@
+This is practice branching on git.
+
+
+
 # Barebones React/TypeScript/Express/Sass Boilerplate
 This project is a starting point for a TypeScript based React app that also has a local API server using express.
 
